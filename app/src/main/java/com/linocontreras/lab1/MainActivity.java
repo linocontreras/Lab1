@@ -23,6 +23,5 @@ public class MainActivity extends AppCompatActivity {
         b.setText("Lalalalala");
         b.setAllCaps(false);
         b.setBackgroundColor(r.nextInt());
-        
     }
 }
